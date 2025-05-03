@@ -1,0 +1,52 @@
+[
+    {
+        "domain": ".netboosters.ru",
+        "expiry": 1746273679,
+        "httpOnly": false,
+        "name": "_ym_visorc",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "w"
+    },
+    {
+        "domain": ".netboosters.ru",
+        "expiry": 1746343873,
+        "httpOnly": false,
+        "name": "_ym_isad",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "2"
+    },
+    {
+        "domain": ".netboosters.ru",
+        "expiry": 1777807873,
+        "httpOnly": false,
+        "name": "_ym_d",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1746271873"
+    },
+    {
+        "domain": ".netboosters.ru",
+        "expiry": 1777807873,
+        "httpOnly": false,
+        "name": "_ym_uid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1746271873402334879"
+    },
+    {
+        "domain": ".business.netboosters.ru",
+        "expiry": 1746876650,
+        "httpOnly": false,
+        "name": "PHPSESSID",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "7i29nu6ilhdr08vr45t8kj1sm4"
+    }
+]
